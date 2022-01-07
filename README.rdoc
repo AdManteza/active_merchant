@@ -1,4 +1,4 @@
-= Active Merchant
+= ADRIAN's InActive Merchant
 
 This library is supposed to aid in creating e-commerce software in Ruby.
 In the future we want to support all "good" payment gateways.
